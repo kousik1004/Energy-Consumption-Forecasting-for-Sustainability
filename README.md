@@ -42,3 +42,12 @@ The goal is to help in **sustainable energy management** by predicting future co
 - Detected seasonal consumption peaks during certain months.
 - Forecast models showed good prediction accuracy for short-term energy consumption.
 - Insights can help optimize energy supply and reduce wastage.
+
+---
+
+## ▶️ How to Run
+- Clone the repository
+- Open the Jupyter Notebook
+- Install the dependencies and run the code
+
+---
